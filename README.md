@@ -41,27 +41,44 @@ Go and see the weapon packs progress under https://github.com/Wirior/VTOL-VR-JAS
   - AIM-9 (RB 74)
   - AIM-9E
   - AIM-9+ (RB 74M)
-  - ARIS-T (RB 98)
+  - ~A-Darter~
+  - IRIS-T (ARIS-T)(RB 98)
+  - ~AIM-132 ASRAAM~
+  - ~Python-5~
 - Air-to-Air BVR 
   - AIM-120B (RB 99)
   - AIM-120D
+  - ~I-Derby ER~
   - Meteor (RB 101)
 - Air-to-Ground guided
   - AGM-65H (RB 75)
   - AGM-65K (RB 75T)
   - Brimstone AGM-145
   - GBU-12
+  - ~GBU-16~
+  - ~GBU-10~
+  - ~GBU-31~
+  - ~GBU-31 BLU-109~
+  - ~GBU-32~
   - GBU-38
   - GBU-39
+  - ~GBU-49~
+  - ~DWS39~
   - RBS-15 Gungnir (AMG-89)
+  - ~MAR-1~
   - SPEAR-3 (GBU-53)
   - ~SPEAR-EW~ (Possibly ADM-160J)
   - KEPD 350 (AGM-161)
+  - ~Storm Shadow~
 - Air-to-Ground unguided
+  - ~M70B AP~
+  - ~M70B HE~
   - M/70X
+  - ~M71~
   - Mk82
   - Mk82 AIR
   - Mk83
+  - ~Mk84~
   - BK-90
 - Other
   - LDP Litening III
