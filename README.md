@@ -89,7 +89,7 @@ Go and see the weapon packs progress under https://github.com/Wirior/VTOL-VR-JAS
 Find the full list of bugs and enhancements under the https://github.com/Wirior/VTOL-VR-JAS39-GRIPEN-E/labels/bug label.
 
 ## Frequently Asked Questions
-- ''Q: When is the mod finished?**
+- **''Q: When is the mod finished?**
   - It is finished once it has reached a level of detail and care similar to the standard aircraft in the game.
 - **Q: Do we plan to have a F model (two seater)?**
   - No, not until Baha green lights use of his multiplayer code from DLC aircraft. For now, and the foreseeable future we will be focusing on the Echo model.
