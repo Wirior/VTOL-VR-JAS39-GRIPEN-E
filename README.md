@@ -11,9 +11,12 @@ Work on this started in March 2025, and the goal is to have a reach the [Gripen 
 The overall goal for this project is to create a JAS 39 Gripen E mod for VTOL VR. The goal for this project is very extensive, including alter or straight up creating new parts for the aircraft. The overarching parts include modifications to the flight model, exterior functionalities, weapons, and interior. To not overreaching my capabilities the project is split into three parts. 
 
 ### [Gripen MVP](https://github.com/Wirior/VTOL-VR-JAS39-GRIPEN-E/milestone/1)
-One being the basic flight model. That includes aero surfaces, collision boxes, aircraft data, flight characteristics, armaments and much more to achieve a similar quality and standard to the model as the current modded aircraft has. In short this has all the necessary parts for the aircraft to function well in game, no bullshit, everything that you expect the basics of aircraft to do it is supposed to do.
+First thing being worked on is the basic aircraft flight model. Without a base we have nothing to work from so, this includes aero surfaces, collision boxes, aircraft data, flight characteristics, armaments and much more. The goal of the milestone is to achieve a minimum viable product (MVP) theoretically ready for release on the workshop (in a sense a 1.0). However the MVP is not supposed to be a half done aircraft, the 1.0 release should have a similar quality and standard to its model as the current modded aircraft has. In short, the MVP has all the necessary parts for the aircraft to function well in game, no bullshit, everything that you expect the basics of aircraft to do it is supposed to do.
 
-Don't expect the aircraft to be to fully customized, things like interior Wide Area Display, buttons, HUD and more will not be part of this milestone. Instead, I aim to fix the aircraft exterior before I jump on the mission to edit and customize the interior to imitate Gripen E's interior. Again, this is an extensive project we need to break it in to parts to be able to grasp the overall projects scope.
+>[!IMPORTANT]
+> Don't expect the aircraft to be to fully simulated at this stage.
+
+Things like the interior, Wide Area Display, buttons, HUD and more will not be part of this milestone. Instead, I aim to fix the aircraft exterior before I jump on the mission to edit and customize the interior to imitate Gripen E's interior. Again, this is an extensive project we need to break it in to parts to be able to grasp the overall projects scope.
 
 ### [Swedish weapon pack Gripen E](https://github.com/Wirior/VTOL-VR-JAS39-GRIPEN-E/milestone/2)
 Second is a weapon pack specific for the JAS 39 Gripen E, this includes a list of regular (already in the base-game) and new armaments the Gripen can carry. [Below](##Complete-list-of-weapons) you can find a comprehensive list of the armaments our Gripen can carry.
@@ -38,7 +41,7 @@ The mammoth task includes things like;
 > "Handover", "BVR Lock", "BVR HIT!",
 > "Manual control"
 
-- Custom panels for the Wide Area Display, like overlaying the TSD over the map screen to increase awareness, new radar screen to show the angle of radar. New tools in the TSD-map screen to show missile guiding bandit radars.
+- Custom panels for the Wide Area Display, like overlaying the TSD over the map screen to increase awareness, new radar screen to show the angle of radar. New tools in the TSD-map screen to show missile guiding and bandit radars.
 - New look for the Heads Up Display and Helmet Mounted Display, to resemble the real HMD and HUD in the real aircraft.
   - More minimalist design compared to the base game. Reducing the altitude and heading bars. As well as creating an all-new speed bar, showing current and change vector in current speed.
   - New crosshair to visualise gun and missile range capabilities.
@@ -47,7 +50,7 @@ The mammoth task includes things like;
 - Two new Multi-Function Displays to help you in the cockpit.
 - New buttons and switches to operate functionalities for the aircraft.
 
-And probably a lot more.
+And a lot more.
 
 ## Contributing Developers
 
