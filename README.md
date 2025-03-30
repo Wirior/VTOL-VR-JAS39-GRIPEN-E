@@ -7,6 +7,9 @@ You can find a development log on the official VTOL VR Modding discord, were I t
 
 Work on this started in March 2025, and the goal is to have a reach the [Gripen MVP](#Gripen-MVP) before the end of spring.
 
+![Project logo](https://github.com/Wirior/VTOL-VR-JAS39-GRIPEN-E/blob/main/assets/images/Gripen%20E%20Logo.png?raw=true)
+
+
 ## Milestones
 The overall goal for this project is to create a JAS 39 Gripen E mod for VTOL VR. The goal for this project is very extensive, including alter or straight up creating new parts for the aircraft. The overarching parts include modifications to the flight model, exterior functionalities, weapons, and interior. To not overreaching my capabilities the project is split into three parts. 
 
@@ -51,6 +54,8 @@ The mammoth task includes things like;
 - New buttons and switches to operate functionalities for the aircraft.
 
 And a lot more.
+
+![Side view of the Gripen E model](https://github.com/Wirior/VTOL-VR-JAS39-GRIPEN-E/blob/main/assets/images/Gripen%20E%20Side.png?raw=true)
 
 ## Contributing Developers
 
