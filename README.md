@@ -1,13 +1,59 @@
 # JAS-39-E
 Welcome to our GitHub for the JAS 39 Gripen E mod for VTOL VR!
 
-I started working on the mod in March 2025.
+Here you can follow the mod progress of development. You can also report bugs, give feedback and possibly contribute to the mods progress.
+
+You can find a development log on the official VTOL VR Modding discord, were I try to update on the current development progress.
+
+Work on this started in March 2025, and the goal is to have a reach the [Gripen MVP](#Gripen-MVP) before the end of spring.
+
+## Milestones
+The overall goal for this project is to create a JAS 39 Gripen E mod for VTOL VR. The goal for this project is very extensive, including alter or straight up creating new parts for the aircraft. The overarching parts include modifications to the flight model, exterior functionalities, weapons, and interior. To not overreaching my capabilities the project is split into three parts. 
+
+### [Gripen MVP](https://github.com/Wirior/VTOL-VR-JAS39-GRIPEN-E/milestone/1)
+One being the basic flight model. That includes aero surfaces, collision boxes, aircraft data, flight characteristics, armaments and much more to achieve a similar quality and standard to the model as the current modded aircraft has. In short this has all the necessary parts for the aircraft to function well in game, no bullshit, everything that you expect the basics of aircraft to do it is supposed to do.
+
+Don't expect the aircraft to be to fully customized, things like interior Wide Area Display, buttons, HUD and more will not be part of this milestone. Instead, I aim to fix the aircraft exterior before I jump on the mission to edit and customize the interior to imitate Gripen E's interior. Again, this is an extensive project we need to break it in to parts to be able to grasp the overall projects scope.
+
+### [Swedish weapon pack Gripen E](https://github.com/Wirior/VTOL-VR-JAS39-GRIPEN-E/milestone/2)
+Second is a weapon pack specific for the JAS 39 Gripen E, this includes a list of regular (already in the base-game) and new armaments the Gripen can carry. [Below](##Complete-list-of-weapons) you can find a comprehensive list of the armaments our Gripen can carry.
+
+> [!NOTE]
+> The goal is not to add all possible armaments, I don't want the player to be confused with "to many" missiles. Instead, I want to add the most recognisable/ already known missiles from the base-game rather than making an effort to create new armaments with similar behaviour.
+
+If you are interested in contributing to the project this part is the easiest for you to contribute. For the new weapons we will need models and textures before we start adding the new armaments into the game modifying existing armaments. If you have skills in finding models/ texturing/ modelling your contributions can be vital for the project to continue.
+
+### [Gripen Final](https://github.com/Wirior/VTOL-VR-JAS39-GRIPEN-E/milestone/3)
+Third is the final form. The goal for this milestone is to elevate the MVP aircraft with armaments to a new level for modded aircraft. 
+
+> [!IMPORTANT]
+> This is why the project is split into multiple parts, because these things aren't "easy" anymore.
+
+The goal is to make a fully custom JAS 39E interior adding buttons and switches to resemble the real aircraft while keeping it simple in the essence of VTOL VR for the "casual players". The new interior would level up the experience for the player with improved and truer to life resemblance to the real aircraft.
+
+The mammoth task includes things like;
+- Custom Voice Warning System, with replacing existing sounds with sounds for the Gripen E Cockpit as well as sounds to resemble the real aircraft. Some of the new sounds are voice lines and beeps for swapping armament, about to enter/exit Mach, radar missile communications, Autopilot and more. 
+> "IR Missile", "Radar Missile", "Gun",
+> "Transonic!",
+> "Handover", "BVR Lock", "BVR HIT!",
+> "Manual control"
+
+- Custom panels for the Wide Area Display, like overlaying the TSD over the map screen to increase awareness, new radar screen to show the angle of radar. New tools in the TSD-map screen to show missile guiding bandit radars.
+- New look for the Heads Up Display and Helmet Mounted Display, to resemble the real HMD and HUD in the real aircraft.
+  - More minimalist design compared to the base game. Reducing the altitude and heading bars. As well as creating an all-new speed bar, showing current and change vector in current speed.
+  - New crosshair to visualise gun and missile range capabilities.
+  - Popup text warnings, if you missed the sound warning there is a notification in text form.
+  - New pull up icon on the screen.
+- Two new Multi-Function Displays to help you in the cockpit.
+- New buttons and switches to operate functionalities for the aircraft.
+
+And probably a lot more.
 
 ## Contributing Developers
 
-Wirior
+Main developer: Wirior
 
-## Liveries
+## Liveries and Textures
 
 Bohmerang
 
@@ -33,7 +79,7 @@ For a complete list of changes - check out the change log file included in the p
 ## Complete list of weapons
 Once MVP is achieved I will start modding a specific weapons pack for the Gripen, including all the armaments that the Gripen can carry from the list:
 
-Go and see the weapon packs progress under https://github.com/Wirior/VTOL-VR-JAS39-GRIPEN-E/milestone/2
+Go and see the weapon packs progress under [Swedish weapon pack Gripen E](https://github.com/Wirior/VTOL-VR-JAS39-GRIPEN-E/milestone/2)
 
 - Cannon
    - BK-27
@@ -91,7 +137,7 @@ Find the full list of bugs and enhancements under the https://github.com/Wirior/
 ## Frequently Asked Questions
 - **''Q: When is the mod finished?**
   - It is finished once it has reached a level of detail and care similar to the standard aircraft in the game.
-- **Q: Do we plan to have a F model (two seater)?**
+- **Q: Do I plan to have a F model (two seater)?**
   - No, not until Baha green lights use of his multiplayer code from DLC aircraft. For now, and the foreseeable future we will be focusing on the Echo model.
 - **Q: Why can't I select the JAS 39 E in multiplayer?**
   - To fly the mod in multiplayer you must select a campaign or scenario that has JAS-39-E spawn points.
