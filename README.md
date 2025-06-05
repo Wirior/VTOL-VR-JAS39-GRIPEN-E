@@ -60,14 +60,24 @@ And a lot more.
 ## Contributing Developers
 
 Main developer: Wirior
+Contributing Developers:
+- Danku
+- C-137
+- Fable
 
-## Liveries and Textures
+## Models, Textures and Liveries
 
-Bohmerang
+- NotBoris
+- Cougar
+- Atlantis
+- Cool Hands
 
 ## Testers
 
-
+- NURD
+- Thail
+- BatDan
+- The_Bloody_Sniper
 
 ## Special Thanks
 
