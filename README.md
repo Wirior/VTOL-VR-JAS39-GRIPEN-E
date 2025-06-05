@@ -60,6 +60,7 @@ And a lot more.
 ## Contributing Developers
 
 Main developer: Wirior
+
 Contributing Developers:
 - Danku
 - C-137
